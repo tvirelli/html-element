@@ -1,0 +1,22 @@
+{
+    "name": "lukaswhite/html-element",
+    "description": "A really simple PHP class for creating HTML elements",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lukas White",
+            "email": "hello@lukaswhite.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "7.0",
+        "phpunit/php-code-coverage": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lukaswhite\\HtmlElement\\": "src/"
+        }
+    }
+}
