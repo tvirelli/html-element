@@ -1,5 +1,5 @@
 {
-    "name": "lukaswhite/html-element",
+    "name": "tvirelli/html-element",
     "description": "A really simple PHP class for creating HTML elements",
     "type": "library",
     "license": "MIT",
